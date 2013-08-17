@@ -1,0 +1,10 @@
+# rcov generated
+coverage
+coverage.data
+
+# general
+.DS_Store
+*.swp
+*.log
+
+debug.rb
