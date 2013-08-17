@@ -29,5 +29,6 @@ inspired by https://github.com/JulienPalard/Pipe
 
 add operators "|" and ">>" to Object
 for the classes has their own "|" or ">>", use "piped(obj)", e.g.
+
     piped([1, 2]) | concat
     piped([8, 9]) >> concat
