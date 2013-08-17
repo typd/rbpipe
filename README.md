@@ -1,8 +1,10 @@
 # Rbpipe
 
 Ruby pipe
+
 Support "|" or ">>" as pipeline operator
-inspired by https://github.com/JulienPalard/Pipe
+
+Inspired by https://github.com/JulienPalard/Pipe
 
 ## Usage
     bundle install
@@ -27,8 +29,9 @@ inspired by https://github.com/JulienPalard/Pipe
         
 ## NOTE
 
-add operators "|" and ">>" to Object
-for the classes has their own "|" or ">>", use "piped(obj)", e.g.
+Add operators "|" and ">>" to Object
+
+For the classes has their own "|" or ">>", use "piped(obj)", e.g.
 
     piped([1, 2]) | concat
     piped([8, 9]) >> concat
