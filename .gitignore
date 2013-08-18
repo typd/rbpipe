@@ -7,4 +7,5 @@ coverage.data
 *.swp
 *.log
 
+.bundle
 debug.rb
