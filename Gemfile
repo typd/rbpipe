@@ -3,4 +3,3 @@ gemspec
 
 gem 'rake'
 gem 'rspec'
-gem 'rspec-core'

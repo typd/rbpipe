@@ -25,4 +25,3 @@ DEPENDENCIES
   rake
   rbpipe!
   rspec
-  rspec-core
