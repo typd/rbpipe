@@ -8,4 +8,5 @@ coverage.data
 *.log
 
 .bundle
+vendor
 debug.rb
