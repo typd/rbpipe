@@ -1,8 +1,8 @@
 # Rbpipe
 
-Ruby pipe
+[![Build Status](https://secure.travis-ci.org/typd/rbpipe.png)](http://travis-ci.org/typd/rbpipe)
 
-Support "|" or ">>" as pipeline operator
+Ruby pipe supports "|" or ">>" as pipeline operator
 
 Inspired by https://github.com/JulienPalard/Pipe
 
