@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.0.0
+notifications:
+  email:
+    - othertang@gmail.com
+  on_success: change
+  on_failure: always
