@@ -7,6 +7,9 @@ coverage.data
 *.swp
 *.log
 
+# ide
+.idea
+
 .bundle
 vendor
 debug.rb
